@@ -15,7 +15,7 @@
     },
     "minimum-stability": "dev",
     "require": {
-        "laravel/framework": "^5.1.*",
+        "laravel/framework": "^5.1",
         "guzzlehttp/guzzle": "^6.2"
     },
     "extra": {
