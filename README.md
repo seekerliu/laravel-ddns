@@ -21,6 +21,8 @@ MacOS 可以在 Terminal 中使用下面命令临时代替，`Ctrl + C` 可终�
 ```bash
 while true; do php artisan schedule:run; sleep 60; done
 ```
+4. 默认每分钟同步一次
+
 ## 配置
 
 > Laravel 5.5 中有 `Package Discover` 功能，故无需进行第 1 步。如未起作用，可手动执行 `php artisan package:discover` 命令。
